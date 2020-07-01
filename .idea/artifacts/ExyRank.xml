@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ExyRank">
+    <output-path>$PROJECT_DIR$/../server-dev-1.8/plugins</output-path>
+    <root id="archive" name="ExyRank.jar">
+      <element id="module-output" name="ExyRank.main" />
+      <element id="module-source" name="ExyRank.main" />
+    </root>
+  </artifact>
+</component>

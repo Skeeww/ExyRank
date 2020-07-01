@@ -1,0 +1,12 @@
+name: ExyRank
+version: "1.0"
+main: fr.exygames.exyrank.Main
+depend: [Factions]
+authors:
+  - ExyGames
+  - Skew
+commands:
+  classement:
+    description: Affiche le classement des factions
+    permission: exyrank.rank
+    usage: /classement
